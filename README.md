@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">PrimeBuild OS</h1>
+<p align="center">
+  <img width="400" alt="PrimeBuild OS" src="https://github.com/user-attachments/assets/96fc907f-c46a-4bce-9173-470bf7b536c9" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Version Badge">
