@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/🏆%20Best%20Custom%20ISO%20of%202025-orange?style=for-the-badge" alt="Best Custom ISO 2025">
   <img src="https://img.shields.io/badge/⚡%20Performance%20Certified-58%25%20Faster%20than%20Stock-7A0CE8?style=for-the-badge&labelColor=2e2e2e" alt="Performance Certified">
   <img src="https://img.shields.io/badge/🎮%20Optimized%20for%20Gaming-+15%20FPS%20avg-0CE8E1?style=for-the-badge&labelColor=2e2e2e" alt="Optimized for Gaming">
-  <img src="https://img.shields.io/badge/🕑%20Latency%20Reduction--22%25-lightgrey?style=for-the-badge" alt="Latency Reduction">
+  <img src="https://img.shields.io/badge/🕑%20Latency%20Reduction--22%25-2DE80C?style=for-the-badge&labelColor=2e2e2e" alt="Latency Reduction">
 </p>
 
 **PrimeBuild OS** è una versione di **Windows 11** completamente **personalizzata e ottimizzata** per offrire prestazioni superiori, stabilità e reattività.  
