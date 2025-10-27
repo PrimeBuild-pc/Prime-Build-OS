@@ -14,7 +14,7 @@
   <a href="https://www.mediafire.com/file/mlo4xrfhv1k378u/Prime-Build-OS.zip/file">
     <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-00BFFF?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
-  <img src="https://img.shields.io/badge/Downloads-3.2K-blue?style=for-the-badge&logo=github" alt="Downloads">
+  <img src="https://img.shields.io/badge/Downloads-12-blue?style=for-the-badge&logo=github" alt="Downloads">
 </p>
 
 ---
