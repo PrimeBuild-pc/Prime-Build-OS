@@ -39,14 +39,12 @@ Progettata per **utenti esperti, gamer e tecnici** che vogliono un sistema opera
 
 ---
 
-<pre align="center">
-
-█████████████████████████████████████████████████████
-█ ⚙️  INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK █
-█ 💠  Installazione completamente automatizzata     █
-█████████████████████████████████████████████████████
-
-</pre>
+<p align="center" style="font-family: monospace;">
+╔════════════════════════════════════════════════════════════╗<br>
+║ ⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK           ║<br>
+║ 💠 Installazione completamente automatizzata               ║<br>
+╚════════════════════════════════════════════════════════════╝
+</p>
 
 ### **PARTE 1 – Preparazione**
 1. Scarica la ISO dal pulsante **Download ISO** in alto.  
