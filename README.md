@@ -41,6 +41,8 @@ Progettata per **utenti esperti, gamer e tecnici** che vogliono un sistema opera
 
 ## 💿 Guida all’installazione
 
+**INSTALLA WINDOWS IN 5 MINUTI**
+
 ### **PARTE 1 – Preparazione**
 1. Scarica la ISO dal pulsante **Download ISO** in alto.  
 2. Inserisci la tua **chiavetta USB** nel PC.  
