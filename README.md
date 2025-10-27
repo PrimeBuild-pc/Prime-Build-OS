@@ -39,11 +39,11 @@ Progettata per **utenti esperti, gamer e tecnici** che vogliono un sistema opera
 
 ---
 
-<div align="center" style="background-color:#0a0a0a; padding:20px; border-radius:12px;">
-  <p style="font-size:26px; font-weight:bold; color:#E8E80C; margin:0;">
+<div align="center" style="background:linear-gradient(90deg,#7A0CE8,#0CE8E1); padding:22px; border-radius:14px;">
+  <p style="font-size:28px; font-weight:bold; color:#fff; margin:0;">
     ⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK
   </p>
-  <p style="font-size:18px; color:#ffffff; margin:6px 0 0;">
+  <p style="font-size:18px; color:#f5f5f5; margin:8px 0 0;">
     💠 Installazione completamente automatizzata — zero interventi, zero complicazioni.
   </p>
 </div>
