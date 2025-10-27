@@ -84,7 +84,7 @@ Con TweakHub puoi installare rapidamente app essenziali, tool di tuning e ottimi
 
 8️⃣ **Unisciti alla community Discord**
 Ottieni supporto, guide e aggiornamenti su nuove release 👉
-[🎯 **Server Discord PrimeBuild**](https://discord.gg/jBNk2vXKKd)
+[![Join our Discord](https://invidget.switchblade.xyz/jBNk2vXKKd)](https://discord.gg/jBNk2vXKKd)
 
 ---
 
