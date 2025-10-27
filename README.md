@@ -14,7 +14,9 @@
   <a href="https://www.mediafire.com/file/mlo4xrfhv1k378u/Prime-Build-OS.zip/file">
     <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-00BFFF?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
-  <img src="https://img.shields.io/badge/Downloads-12-blue?style=for-the-badge&logo=github" alt="Downloads">
+  <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PrimeBuild-pc/PrimeBuild-OS&title=Repository%20views&edge_flat=false&style=for-the-badge&color=blue" alt="Repo Views">
+  </a>
 </p>
 
 ---
