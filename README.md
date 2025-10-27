@@ -16,7 +16,6 @@
   <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
     <img src="https://hits.sh/github.com/PrimeBuild-pc/PrimeBuild-OS.svg?style=for-the-badge&label=Repo%20Views&color=ff4747&labelColor=0a0a0a&logo=github&logoColor=white" alt="Repo Views">
   </a>
-
 </p>
 
 ---
