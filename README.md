@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
   </a>
   <a href="https://www.mediafire.com/file/mlo4xrfhv1k378u/Prime-Build-OS.zip/file">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-E8E80C?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
   <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
     <img src="https://hits.sh/github.com/PrimeBuild-pc/PrimeBuild-OS.svg?style=for-the-badge&label=Repo%20Views&color=ff4747&labelColor=0a0a0a&logo=github&logoColor=white" alt="Repo Views">
