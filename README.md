@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-00BFFF?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
 <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
-  <img src="https://img.shields.io/badge/Repo%20Views-1-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repo Views">
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimeBuild-pc%2FPrimeBuild-OS&title=Repo%20views&icon=github&count_bg=%2300BFFF&title_bg=%23212529&icon_color=%23FFFFFF"
+    alt="Repo Views"
+  />
 </a>
 
 </p>
@@ -27,7 +30,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆%20Best%20Custom%20ISO%20of%202025-orange?style=for-the-badge" alt="Best Custom ISO 2025">
-  <img src="https://img.shields.io/badge/⚡%20Performance%20Certified-99%25%20Faster%20than%20Stock-blue?style=for-the-badge" alt="Performance Certified">
+  <img src="https://img.shields.io/badge/⚡%20Performance%20Certified-58%25%20Faster%20than%20Stock-blue?style=for-the-badge" alt="Performance Certified">
   <img src="https://img.shields.io/badge/🎮%20Optimized%20for%20Gaming-+15%20FPS%20avg-success?style=for-the-badge" alt="Optimized for Gaming">
   <img src="https://img.shields.io/badge/🕑%20Latency%20Reduction--22%25-lightgrey?style=for-the-badge" alt="Latency Reduction">
 </p>
