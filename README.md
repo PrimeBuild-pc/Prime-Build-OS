@@ -16,10 +16,11 @@
   </a>
   <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
     <img
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimeBuild-pc%2FPrimeBuild-OS&title=Repo%20views&icon=github&count_bg=%2300BFFF&title_bg=%23212529&icon_color=%23FFFFFF"
+      src="https://visitor-badge.laobi.icu/badge?page_id=PrimeBuild-pc.PrimeBuild-OS&left_text=Repo%20views&right_color=00BFFF"
       alt="Repo Views"
     />
   </a>
+
 
 </p>
 
