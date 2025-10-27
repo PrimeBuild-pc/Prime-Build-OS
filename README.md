@@ -39,10 +39,14 @@ Progettata per **utenti esperti, gamer e tecnici** che vogliono un sistema opera
 
 ---
 
-<p align="center">
-  <strong style="font-size: 22px;">⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK</strong><br>
-  <span style="font-size: 16px;">💠 Installazione completamente automatizzata — zero interventi, zero complicazioni.</span>
-</p>
+<div align="center" style="background-color:#0a0a0a; padding:20px; border-radius:12px;">
+  <p style="font-size:26px; font-weight:bold; color:#E8E80C; margin:0;">
+    ⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK
+  </p>
+  <p style="font-size:18px; color:#ffffff; margin:6px 0 0;">
+    💠 Installazione completamente automatizzata — zero interventi, zero complicazioni.
+  </p>
+</div>
 
 ### **PARTE 1 – Preparazione**
 1. Scarica la ISO dal pulsante **Download ISO** in alto.  
