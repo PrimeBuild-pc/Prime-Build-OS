@@ -122,6 +122,8 @@ Questa ISO è una versione **non ufficiale** di Windows 11 modificata e ottimizz
 Utilizzala a tuo rischio e pericolo.
 PrimeBuild non è affiliata in alcun modo con Microsoft Corporation.
 
+*Inspired by FSOS*
+
 ---
 
 <p align="center">
