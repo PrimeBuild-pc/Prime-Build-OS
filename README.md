@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e255e56f-1f11-491b-ae94-7d805c2ee11e" />
-" alt="PrimeBuild OS Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/e255e56f-1f11-491b-ae94-7d805c2ee11e" /> 
 </p>
 
 <h1 align="center">PrimeBuild OS</h1>
