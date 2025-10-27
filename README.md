@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-00BFFF?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
 <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
-  <img src="https://custom-icon-badges.demolab.com/badge/Repo%20Views-LIVE-blue?style=for-the-badge&logo=github" alt="Repo Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimeBuild-pc%2FPrimeBuild-OS&count_bg=%2300BFFF&title_bg=%23212529&title=&edge_flat=true" height="28" alt="Repo Views Counter"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Repo%20Views-red?style=for-the-badge&logo=github&logoColor=white" alt="Repo Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimeBuild-pc%2FPrimeBuild-OS&count_bg=%23FF0000&title_bg=%23212529&title=&edge_flat=true" height="28" alt="Repo Views Counter"/>
 </a>
 
 </p>
