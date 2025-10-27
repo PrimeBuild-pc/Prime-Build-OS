@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e255e56f-1f11-491b-ae94-7d805c2ee11e" width="100%" alt="PrimeBuild OS Banner"/>
+  <img src="https://github.com/user-attachments/assets/e255e56f-1f11-491b-ae94-7d805c2ee11e" width="80%" alt="PrimeBuild OS Banner"/>
 </p>
 
 <h1 align="center">PrimeBuild OS</h1>
@@ -15,8 +15,12 @@
     <img src="https://img.shields.io/badge/⬇️%20Download%20ISO-PrimeBuild%20OS-00BFFF?style=for-the-badge&logo=windows11&logoColor=white" alt="Download ISO">
   </a>
   <a href="https://github.com/PrimeBuild-pc/PrimeBuild-OS">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PrimeBuild-pc/PrimeBuild-OS&title=Repository%20views&edge_flat=false&style=for-the-badge&color=blue" alt="Repo Views">
-  </a>
+    <img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrimeBuild-pc%2FPrimeBuild-OS&title=Repo%20views&icon=github&count_bg=%2300BFFF&title_bg=%23212529&icon_color=%23FFFFFF"
+      alt="Repo Views"
+    />
+</a>
+
 </p>
 
 ---
