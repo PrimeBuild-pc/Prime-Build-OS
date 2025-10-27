@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/⚡%20Performance%20Certified-99%25%20Faster%20than%20Stock-blue?style=for-the-badge" alt="Performance Certified">
   <img src="https://img.shields.io/badge/🎮%20Optimized%20for%20Gaming-+15%20FPS%20avg-success?style=for-the-badge" alt="Optimized for Gaming">
   <img src="https://img.shields.io/badge/🕑%20Latency%20Reduction--22%25-lightgrey?style=for-the-badge" alt="Latency Reduction">
-  ![Bug Rate](https://img.shields.io/badge/Bug%20Rate-0.3%25%20Low-red?style=for-the-badge&logoColor=white)
 </p>
 
 **PrimeBuild OS** è una versione di **Windows 11** completamente **personalizzata e ottimizzata** per offrire prestazioni superiori, stabilità e reattività.  
