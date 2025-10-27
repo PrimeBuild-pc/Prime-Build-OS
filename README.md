@@ -54,13 +54,13 @@ Se non hai connessione internet, scarica i driver LAN/Wi-Fi da un altro PC, copi
 
 2️⃣ **Driver chipset e scheda madre**  
 Scarica i **driver chipset** dal sito ufficiale del produttore della tua piattaforma:  
-- AMD Chipset: [https://www.amd.com/en/support](https://www.amd.com/en/support)  
-- Intel Chipset: [https://www.intel.com/content/www/us/en/download-center/home.html](https://www.intel.com/content/www/us/en/download-center/home.html)
+- [AMD Chipset](https://www.amd.com/en/support)  
+- [Intel Chipset](https://www.intel.com/content/www/us/en/download-center/home.html)
 
 3️⃣ **Driver video**  
 Scarica sempre i driver video dai siti ufficiali:  
-- NVIDIA Drivers: [https://www.nvidia.com/download](https://www.nvidia.com/download)  
-- AMD Radeon: [https://www.amd.com/en/support](https://www.amd.com/en/support)  
+- [NVIDIA Driver](https://www.nvidia.com/download)  
+- [AMD Radeon](https://www.amd.com/en/support)  
 
 💡 **Consiglio**: per GPU NVIDIA, usa [**TechPowerUp NV Clean Install**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) per un’installazione pulita e senza componenti inutili.  
 *(Già incluso in TweakHub, preinstallato nella ISO.)*
@@ -92,7 +92,6 @@ Ottieni supporto, guide e aggiornamenti su nuove release 👉
 
 ## 📂 Risorse utili
 
-* 🧠 [TweakHub](https://github.com/PrimeBuild-pc/TweakHub) — centro di controllo e tweak per Windows
 * ⚙️ [Altre app PrimeBuild](https://github.com/PrimeBuild-pc?tab=repositories) — tool e utility aggiuntive
 * 🧩 [NV Clean Install](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) — driver NVIDIA puliti
 
