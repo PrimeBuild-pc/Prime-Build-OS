@@ -78,13 +78,15 @@ winget upgrade --all
 ````
 
 7️⃣ **Apri TweakHub**
+
 Dal desktop, apri la cartella ZIP **TweakHub** inclusa nella ISO.
 Con TweakHub puoi installare rapidamente app essenziali, tool di tuning e ottimizzazioni aggiuntive.
 🔗 Repo ufficiale: [https://github.com/PrimeBuild-pc/TweakHub](https://github.com/PrimeBuild-pc/TweakHub)
 
 8️⃣ **Unisciti alla community Discord**
+
 Ottieni supporto, guide e aggiornamenti su nuove release 👉
-[![Join our Discord](https://invidget.switchblade.xyz/jBNk2vXKKd)](https://discord.gg/jBNk2vXKKd)
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jBNk2vXKKd)
 
 ---
 
