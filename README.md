@@ -41,8 +41,8 @@ Progettata per **utenti esperti, gamer e tecnici** che vogliono un sistema opera
 
 <p align="center" style="font-family: monospace;">
 ╔════════════════════════════════════════════════════════════╗<br>
-║ ⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK           ║<br>
-║ 💠 Installazione completamente automatizzata               ║<br>
+║                ⚙️ INSTALLA WINDOWS IN 5 MINUTI, CON POCHI CLICK           ║<br>
+║                💠 Installazione completamente automatizzata               ║<br>
 ╚════════════════════════════════════════════════════════════╝
 </p>
 
